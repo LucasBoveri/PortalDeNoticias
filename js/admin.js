@@ -1,13 +1,3 @@
-const usuarioLogueado =
-    sessionStorage.getItem(
-        "usuarioLogueado"
-    );
-
-if (!usuarioLogueado) {
-
-    window.location.href =
-        "login.html";
-}
 
 const STORAGE_KEY = "noticias";
 
@@ -21,6 +11,15 @@ function logout() {
     window.location.href =
         "index.html";
 }
+
+const usuarioLogueado =
+    sessionStorage.getItem("usuarioLogueado");
+
+if (!usuarioLogueado) {
+    window.location.href = "login.html";
+}
+
+
 
 document
     .getElementById("logout-btn")
