@@ -33,6 +33,16 @@ const noticiasIniciales = [
         titulo: "Macroeconomía",
         descripcion: "Banco Central compró dólares, sumó reservas y el Riesgo País bajó a 425 puntos.",
         imagen: "https://media.todojujuy.com/p/6885511892b34a1c45b3f31fd31e35a3/adjuntos/227/imagenes/003/459/0003459457/dolar-las-bandas-cambiarias-subiran-34-mayo.jpg"
+    },
+    {
+        titulo: "Historia",
+        descripcion: "El dólar de plata de 1794 que vale US$12 millones: historia del Flowing Hair.",
+        imagen: "https://www.lanacion.com.ar/resizer/v2/el-dolar-de-plata-flowing-hair-de-1794-es-uno-de-VOSZPFUD3BGWZCIY6FO6NOZ524.jpg?auth=d1edd977ba7ff6354bbebcf53415e83f232d26998514a37b21136e647e858394&width=1200&height=800&quality=70&smart=false&focal=1008,589"
+    },
+    {
+        titulo: "Dolar: Julio",
+        descripcion: "Dólar: cómo se mueve la banda cambiaria en julio tras la desaceleración de la inflación.",
+        imagen: "https://www.lanacion.com.ar/resizer/v2/con-el-nuevo-dato-de-inflacion-de-mayo-se-6NOUQ63QVVDTPA2IEBKGELZGK4.png?auth=6df236669724626cea21b68da81153c554d0f0350350863ef909aefb0b466f95&width=1200&height=800&quality=70&smart=true"
     }
 ];
 
