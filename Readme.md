@@ -6,7 +6,7 @@ Este proyecto fue realizado como trabajo práctico para la materia Taller de Int
 
 Consiste en un portal de noticias relacionado con la economía y la cotización del dólar. Los usuarios pueden consultar noticias y visualizar el valor actualizado del dólar, mientras que los administradores tienen acceso a un panel donde pueden agregar, modificar y eliminar noticias.
 
-El proyecto fue desarrollado utilizando únicamente HTML, CSS y JavaScript Vanilla, respetando las restricciones establecidas en la consigna.
+El proyecto fue desarrollado utilizando únicamente HTML, CSS y JavaScript, respetando las restricciones establecidas en la consigna.
 
 ## Funcionalidades
 
@@ -28,18 +28,12 @@ El proyecto fue desarrollado utilizando únicamente HTML, CSS y JavaScript Vanil
 
 * HTML5
 * CSS3
-* JavaScript Vanilla
+* JavaScript
 * LocalStorage
 * SessionStorage
 * API Bluelytics
 * API DummyJSON
 * Git y GitHub
-
-## Ejecución del proyecto
-
-### Sitio publicado
-
-URL: [URL DEL SITIO PUBLICADO]
 
 ### Ejecución local
 
@@ -55,6 +49,10 @@ Usuario: emilys
 
 Contraseña: emilyspass
 
+Usuario 2: michaelw
+
+Contraseña 2: michaelwpass
+
 ## Estructura del proyecto
 
 portal-dolar/
@@ -67,7 +65,7 @@ admin.html
 
 css/
 
-* styles.css
+* style.css
 
 js/
 
@@ -81,13 +79,10 @@ README.md
 
 ## Integrantes
 
-* Nombre Apellido
-* Nombre Apellido
-* Nombre Apellido
-
-## Repositorio
-
-URL: [URL DEL REPOSITORIO]
+* Boveri Lucas
+* Busso Bautista
+* Jauregui Santiago
+* Iza Ciro
 
 ## Observaciones
 
